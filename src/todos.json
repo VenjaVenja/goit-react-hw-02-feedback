@@ -1,0 +1,6 @@
+[
+    { "id": "id-1", "text": "Task 1", "completed": true },
+    { "id": "id-2", "text": "Task 2", "completed": false },
+    { "id": "id-3", "text": "Task 3", "completed": true },
+    { "id": "id-4", "text": "Task 4", "completed": false }
+]
